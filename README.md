@@ -26,7 +26,8 @@ I'm a Computer Science graduate interested in software development and AI techno
 - Git and GitHub
 
 ## Connect With Me
-- GitHub: [My GitHub Profile](https://github.com/YOUR-USERNAME)
+- GitHub: [My GitHub Profile](https://github.com/Spriya-2005
+/)
 
 <!--
 **Spriya-2005/Spriya-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
